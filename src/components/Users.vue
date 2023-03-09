@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <h3> Users:</h3>
+    <p>Vue web app with fake names, emails and city details.</p>
     <table class="table">
       <thead>
         <tr>

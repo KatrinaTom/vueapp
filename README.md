@@ -1,7 +1,9 @@
 # vueapp
 
 ## Introduction
-Learning to use vue. This is my first attempt at building a vue app. This is a User's database. 
+Learning to use vue. This is my first attempt at building a vue app. This is a User's database with fake information. 
+
+Two components: Users, Footer
 
 ## Project setup
 ```
@@ -37,5 +39,9 @@ https://jsonplaceholder.typicode.com/users/
 
 ## Dependencies
 * axios 
+
+## Completed Exercise
+
+![Completed Vue Exercise](images/completed.png)
 
 
