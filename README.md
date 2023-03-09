@@ -1,5 +1,8 @@
 # vueapp
 
+## Introduction
+Learning to use vue. This is my first attempt at building a vue app. This is a User's database. 
+
 ## Project setup
 ```
 yarn install
@@ -24,5 +27,15 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Resources
-Following along with tutorial: https://www.blog.duomly.com/vue-js-tutorial-how-to-create-vue-js-app-in-5-minutes/
+Following along with tutorial: 
+
+https://www.blog.duomly.com/vue-js-tutorial-how-to-create-vue-js-app-in-5-minutes/
+
+faked API fromJSONPlaceholder website:
+
+https://jsonplaceholder.typicode.com/users/
+
+## Dependencies
+* axios 
+
 
